@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "image-upload-read-executor",
+    "name": "image-upload-read",
+    "region": "ap-south-1"
+  }
+}
