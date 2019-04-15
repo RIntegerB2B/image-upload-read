@@ -3,5 +3,8 @@
     "role": "image-upload-read-executor",
     "name": "image-upload-read",
     "region": "ap-south-1"
+  },
+  "api": {
+    "id": "rq68q8d8ga"
   }
 }
